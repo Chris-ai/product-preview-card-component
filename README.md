@@ -44,8 +44,6 @@ I would like to focus on:
 - Good <i>Responsive Web Design</i> practices
 - Good CSS reusable code structure
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ## Author
 
 - LinkedIn - [Krzysztof Kondracikowski](https://www.linkedin.com/in/krzysztof-kondracikowski-87a3491b3/)
