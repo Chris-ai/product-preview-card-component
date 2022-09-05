@@ -44,6 +44,10 @@ I would like to focus on:
 - Good <i>Responsive Web Design</i> practices
 - Good CSS reusable code structure
 
+### What I learned
+
+Deploying app with Heroku. That was my first time.
+
 ## Author
 
 - LinkedIn - [Krzysztof Kondracikowski](https://www.linkedin.com/in/krzysztof-kondracikowski-87a3491b3/)
