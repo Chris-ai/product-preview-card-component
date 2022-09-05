@@ -1,8 +1,0 @@
-{
-    "root":"dist/",
-    "clean_urls": true,
-    "logging": {
-        "access": false,
-        "error": "warn"
-    }
-}
